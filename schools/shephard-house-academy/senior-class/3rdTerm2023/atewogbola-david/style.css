@@ -1,0 +1,228 @@
+body{
+    margin:0px;
+    background-color: #FFF;
+}
+nav{
+    background-color:#FFF;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-inline: 30px;
+}
+nav>a{
+    color: #000;
+    padding-right: 40px;
+}
+.logo{
+    padding-right: 230px;
+}
+.about{
+    padding-right: 230px;
+    padding-left: 10px;
+}
+.team{
+    padding-right: 230px;
+    padding-left: 10px;
+}
+.contact{
+    padding-right: 200px;
+    padding-left: 10px;
+}
+.banner{
+    background-image:url(./images/group-img1.jpg);
+    background-size:cover;
+    background-position:center;
+    height:90vh;
+    width:100vw;
+    text-align:center;
+}
+.banner .heading-1{
+    font-size:16px;
+}
+.banner .heading-2{
+    font-size:16px;
+}
+.banner .heading-3{
+    font-size:30px;
+}
+.banner .heading-4{
+    font-size:40px;
+}
+.abt-section{
+    display:flex;
+    width:100vw;
+    padding: 20px;
+    box-sizing: border-box;
+}
+.abt-section img{
+    width:50%;
+}
+form{
+    width:50%;
+    margin:auto;
+    margin-top:100px;
+}
+input, textarea{
+ width:100%;
+ padding:20px;
+}
+label{
+    display:block;
+    margin-top:20px;
+}
+.text{
+    text-align: center;
+}
+
+.vid-section{
+    display:flex;
+    width:100vw;
+    padding: 20px;
+    box-sizing: border-box;
+}
+.vid-section video{
+    width:50%
+}
+.txt-section{
+    display:flex;
+    width:100vw;
+    padding: 20px;
+    box-sizing: border-box;
+}
+.txt-section video{
+    width:75%
+    
+}
+.fup{
+    padding-left: 100px;
+    padding-top: 150px;
+}
+.ivt{
+    padding-right: 100px;
+    padding-top:150px;
+    
+}
+.otm{
+    text-align: center;
+}
+
+.allen-white{
+    display:flex;
+    width:100vw;
+    padding:20px;
+    box-sizing: border-box;
+}
+.white{
+    width:700px;
+    height:600px;
+    padding-right: 100px;
+}
+.allen{
+    width:700px;
+    height:600px;
+}
+.paul-edosa{
+    display:flex;
+    width:100vw;
+    padding:20px;
+    box-sizing: border-box;
+}
+.paul{
+    width:700px;
+    height:500px;
+    padding-right: 100px;
+}
+.edosa{
+    width:700px;
+    height:500px;
+}
+.darasimi{
+    width:700px;
+    height:500px;
+    padding-right: 100px;
+}
+.richard{
+    width:700px;
+    height:500px;
+}
+.darasimi-richard{
+    display:flex;
+    width:100vw;
+    padding:20px;
+    box-sizing: border-box;
+}
+.ivan-david{
+    display:flex;
+    width:100vw;
+    padding:20px;
+    box-sizing: border-box;
+}
+.ivan{
+    width:700px;
+    height:500px;
+    padding-right: 100px;
+}
+.david{
+    width:700px;
+    height:500px;
+}
+.hamza-malik{
+    display:flex;
+    width:100vw;
+    padding:20px;
+    box-sizing: border-box;
+}
+.hamza{
+    width:700px;
+    height:500px;
+    padding-right: 100px;
+}
+.malik{
+    width:700px;
+    height:500px;
+}
+.boy3-boy2{
+    display:flex;
+    width:100vw;
+    padding:20px;
+    box-sizing: border-box;
+}
+.boy3{
+    width:700px;
+    height:500px;
+    padding-right:100px;
+}
+.boy2{
+    width:700px;
+    height:500px;
+}
+.boy-aisha{
+    display:flex;
+    width:100vw;
+    padding:20px;
+    box-sizing: border-box;
+}
+.boy{
+    width:700px;
+    height:500px;
+    padding-right:100px;
+}
+.aisha{
+    width:700px;
+    height:500px;
+}
+.augustin-eniola{
+    display:flex;
+    width:100vw;
+    padding:20px;
+    box-sizing: border-box;
+}
+.augustin{
+    width:530px;
+    height:500px;
+    padding-right:90px;
+    padding-left: 20px;
+}
+.eniola{
+    width:690px;
+    height:500px;
+}

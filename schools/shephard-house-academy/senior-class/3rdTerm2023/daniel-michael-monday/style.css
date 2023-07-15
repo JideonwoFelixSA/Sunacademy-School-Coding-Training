@@ -1,0 +1,31 @@
+nav{
+    background-color: #F0F;
+    padding-top:20px;
+    padding-bottom:20px;
+}
+nav a{
+    background-color:white;
+    padding-right:40px;
+}
+.LOGO{
+    padding-RIGHT:100px;
+}
+.banner{
+    background-image:url(./images/group-img1.jpg);
+    height:90vh;
+    width:100vw;
+    text-align:center;
+}
+.banner .heading-1{
+    font-size:16px;
+}
+
+.banner .heading-2{
+    font-size:16px;
+}
+.banner .heading-3{
+    font-size:30px;
+}
+.banner .heading-4{
+    font-size:40px;
+}

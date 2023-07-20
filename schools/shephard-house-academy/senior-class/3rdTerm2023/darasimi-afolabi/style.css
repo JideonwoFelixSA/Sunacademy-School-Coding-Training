@@ -1,0 +1,245 @@
+body {
+  margin: 0px;
+  background-color: gray;
+}
+
+nav {
+  background-color: #f0f;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-inline: 30px;
+}
+
+nav>a {
+  color: white;
+  padding-right: 40px;
+}
+
+.logo {
+  padding-right: 100px;
+}
+
+.banner {
+  background-image: url(./images/group-img1.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 90vh;
+  width: 100vw;
+  text-align: center;
+}
+
+.banner .heading-1 {
+  font-size: 16px;
+}
+
+.banner .heading-2 {
+  font-size: 16px;
+}
+
+.banner .heading-3 {
+  font-size: 30px;
+}
+
+.banner .heading-4 {
+  font-size: 40px;
+}
+
+.abt-section {
+  display: flex;
+  width: 100vw;
+  padding: 20px;
+  box-sizing: border-box;
+  color:black;
+  font-size: 25px;
+  text-align: center;
+}
+
+.abt-section img {
+  width: 50%;
+}
+
+form {
+  width: 50%;
+  margin: auto;
+  margin-top: 100px;
+}
+
+input,
+textarea {
+  width: 100%;
+  padding: 20px;
+}
+
+label {
+  display: block;
+  margin-top: 20px;
+}
+.about{
+  font-size: 50px;
+  text-align: center;
+  color: fuchsia;
+}
+.section {
+  display: flex;
+  width: 100vw;
+  padding: 20px;
+  box-sizing: border-box;
+  font-size: 50px;
+  text-align: center;
+  font-size: 50px;
+}
+.section video{
+  width: 50%;
+}
+.family{
+  display: flex;
+  width: 100vw;
+  padding: 20px;
+  box-sizing: border-box;
+  font-size: 50px;
+  text-align: center;
+  font-size: 50px;
+}
+.family video{
+  width: 70%;
+}
+.role{
+  font-size: 50px;
+  text-align: center;
+}
+.date{
+  display:inline-block;
+  padding: 20px;
+  box-sizing: border-box;
+  font-size: 20px;
+  font-size: 20px;
+}
+.date img{
+  width: 200px;
+  height: 200px;
+  padding-right: 40px;
+  border-radius: 100%;
+  
+}
+.fate{
+  display: inline-block;
+  padding: 20px;
+  box-sizing: border-box;
+  font-size: 20px;
+  font-size: 20px;
+}
+.fate img{
+  width: 200px;
+  height: 200px;
+  padding-right: 40px;
+  border-radius: 100%;
+}
+.rent{
+  text-align: center;
+}
+nav:hover{
+  background-color:red;
+  color: white;
+  border: 1px solid;
+  padding: 10px;
+  font-size: 20px;
+  border-radius: 4px;
+
+}
+.rate{
+  display:inline-block;
+  padding: 20px;
+  box-sizing: border-box;
+  font-size: 20px;
+  font-size: 20px;
+}
+.rate img{
+  width: 200px;
+  height: 200px;
+  padding-right: 40px;
+  border-radius: 100%;
+  
+}
+.flat{
+  display:inline-block;
+  padding: 20px;
+  box-sizing: border-box;
+  font-size: 20px;
+  font-size: 20px;
+}
+.flat img{
+  width: 200px;
+  height: 200px;
+  padding-right: 40px;
+  border-radius: 100%;
+  
+}
+.plan{
+  display:inline-block;
+  padding: 20px;
+  box-sizing: border-box;
+  font-size: 20px;
+  font-size: 20px;
+}
+.plan img{
+  width: 200px;
+  height: 200px;
+  padding-right: 40px;
+  border-radius: 100%;
+  
+}
+.cream{
+  display:inline-block;
+  padding: 20px;
+  box-sizing: border-box;
+  font-size: 20px;
+  font-size: 20px;
+}
+.cream img{
+  width: 200px;
+  height: 200px;
+  padding-right: 40px;
+  border-radius: 100%;
+  
+}
+.book{
+  display:inline-block;
+  padding: 20px;
+  box-sizing: border-box;
+  font-size: 20px;
+  font-size: 20px;
+}
+.book img{
+  width: 200px;
+  height: 200px;
+  padding-right: 40px;
+  border-radius: 100%;
+  
+}
+.bazz{
+  display:inline-block;
+  padding: 20px;
+  box-sizing: border-box;
+  font-size: 20px;
+  font-size: 20px;
+}
+.bazz img{
+  width: 200px;
+  height: 200px;
+  padding-right: 40px;
+  border-radius: 100%;
+  
+}
+button{
+background-color: black;
+border: none;
+color: white;
+padding: 15px 30px;
+font-size: 12px;
+}
+button:hover{
+  background-color: gray;
+  color: red;
+  font-size: 20px;
+  transition: 0.3s;
+}

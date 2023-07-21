@@ -1,0 +1,12 @@
+body{
+    margin: 0px;
+}
+
+.navigation-menu{
+    padding: 20px;
+}
+.banner{
+    background-image: url(./images/group-image.jpg);
+    padding: 100px;
+    background-size:cover;
+}

@@ -1,0 +1,65 @@
+@font-face {
+    font-family: Montserrat;
+    src: url(./fonts/Montserrat-Regular.ttf);
+}
+body{
+    margin: 0;
+    font-family: Montserrat;
+}
+nav{
+    background-color: blue;
+    padding: 30px 50px;
+}
+nav a{
+    color: white;
+    text-decoration: none;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.banner{
+    text-align: center;
+    background-image: url(./images/banner.jpg);
+    background-size: cover;
+    padding: 50px 20px;
+    color: red;
+}
+.banner h4{
+    font-size: 40px;
+}
+.banner h2{
+    font-size: 50px;
+}
+.banner h1{
+    font-size: 100px;
+}
+.section-2{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding: 100px;
+}
+.section-2 img{
+    width: 100%;
+}
+form{
+    width: 500px;
+    margin: auto;
+    margin-top: 100px;
+}
+form input{
+    width: 100%;
+    margin-bottom: 20px;
+    height: 40px;
+}
+
+.about-us-section-1{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+    padding: 30px;
+}
+.about-us-section-1 video{
+    width: 100%;
+}
+.future{
+    font-size: 100px;
+}

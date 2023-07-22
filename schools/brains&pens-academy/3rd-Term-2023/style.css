@@ -10,3 +10,7 @@ body{
     padding: 100px;
     background-size:cover;
 }
+
+nav a{
+    padding-right: 30px;
+}

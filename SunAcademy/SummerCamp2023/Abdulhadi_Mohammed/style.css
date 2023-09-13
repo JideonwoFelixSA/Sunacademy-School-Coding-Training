@@ -1,0 +1,169 @@
+h2, h1 {
+    font-family: italic; 
+    text-align: center;
+    color: white;
+}
+
+.hadi{
+    background-color: red;
+}
+
+h1 {
+    font-style: oblique;  
+    color: white; 
+}
+
+img {
+    width: 200px;
+    
+}
+.sasuke{
+    display: flex;
+    justify-content:center;
+   background-color: white;
+
+}
+a button {
+    background-color: yellow;
+    color: purple;
+    font-size: 20px;
+    border-radius: 20px;
+}
+.section{
+    text-align: center;
+}
+a {
+    color: black
+    
+    
+}
+
+a:visited {
+    color: blue;
+}
+a:hover {
+    color: lightseagreen;
+}
+a:active {
+    color: maroon;
+}
+.kakashi {
+    text-align: center;
+}
+.dad {
+    text-align: center;
+}
+.mom {
+    text-align: center;
+}
+.temi {
+    text-align: center;
+}
+
+
+
+.bro {
+    width: 100px;
+    height: 100px;
+    background-color: deeppink;
+    border-radius: 50px;
+    position: relative;
+    transition: none;
+    animation: square 2s  1s infinite ;
+}
+@keyframes square {
+    0% {
+        right: 10px;
+    }
+    500% {
+        right: 100px;
+    }
+    100% {
+        right: 1200px;
+    }
+} 
+
+.son {
+    width: 100px;
+    height: 100px;
+    background-color: orangered;
+    border-radius: 50px;
+    position: relative;
+    transition: left 1s;
+    animation: square1 2s 1s infinite ;
+}
+@keyframes square1 {
+    0% {
+        left: 100px;
+    }
+    50% {
+        left: 0px;
+    }
+    100% {
+        left: 1000px;
+    }
+} 
+
+.ball {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    border-radius: 50px;
+    position: relative;
+    transition: none;
+    animation: square 2s  1s infinite ;
+}
+@keyframes square {
+    0% {
+        right: 10px;
+    }
+    500% {
+        right: 100px;
+    }
+    100% {
+        right: 1200px;
+    }
+} 
+
+.sis {
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+    border-radius: 50px;
+    position: relative;
+    transition: left 1s;
+    animation: square1 2s 1s infinite ;
+}
+@keyframes square1 {
+    0% {
+        left: 100px;
+    }
+    50% {
+        left: 0px;
+    }
+    100% {
+        left: 1000px;
+    }
+} 
+
+.some {
+    display: flex;
+    justify-content: space-between;
+}
+.baba {
+    display: flex;
+    justify-content: space-between;
+    background-image: repeating-linear-gradient(to right, red 35%, orangered 50% lawngreen 80%, white 50% yellow);
+    background-image: repeating-linear-gradient(to right, red 35%, orangered 50% lawngreen 80%, white 50% yellow); 
+}
+.most  {
+    width: 300px;
+   
+}
+.dog {
+    width: 300px;
+}
+.cat {
+    width: 300px;
+    height: 250px;
+}

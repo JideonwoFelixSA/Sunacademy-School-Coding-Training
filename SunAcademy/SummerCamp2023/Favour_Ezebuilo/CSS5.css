@@ -1,0 +1,25 @@
+h1 {
+    text-shadow: 3px 3px 1px greenyellow;
+    color: purple;
+    font-family: 'Arial Narrow';
+    border: 7px solid gold; 
+    width: 26%;
+    padding: 3%;
+    background-image: url(images/food2.jfif);
+}
+body {
+    background-color: cyan;
+}
+h3 {
+    text-align: center;
+}
+.pop {
+    text-align: center;
+    font-family: Tahoma;
+}
+.cloe {
+    width: 30%;
+}
+.clo {
+    width: 30%;
+}
